@@ -1,4 +1,4 @@
-# spaceInvadersWithGoRoutines :)
+# SpaceInvaders With Go Routines by Ken Lomax
 
 ![spaceInvadersWithGoRoutines](https://raw.githubusercontent.com/kenlomaxhybris/spaceInvadersWithGoRoutines/master/spaceInvadersWithGoRoutines.png)
 
